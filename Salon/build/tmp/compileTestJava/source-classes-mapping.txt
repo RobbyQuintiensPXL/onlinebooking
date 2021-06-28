@@ -1,0 +1,2 @@
+com/example/salon/SalonApplicationTests.java
+ com.example.salon.SalonApplicationTests
