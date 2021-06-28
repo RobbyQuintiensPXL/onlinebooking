@@ -1,15 +1,19 @@
 com/example/salon/SalonApplication.java
  com.example.salon.SalonApplication
-com/example/salon/Repositories/SalonServiceDetailRepo.java
- com.example.salon.Repositories.SalonServiceDetailRepo
+com/example/salon/Repositories/SalonDetails.java
+ com.example.salon.Repositories.SalonDetails
 com/example/salon/Exceptions/SalonException.java
  com.example.salon.Exceptions.SalonException
 com/example/salon/Entities/Slot.java
  com.example.salon.Entities.Slot
  com.example.salon.Entities.SlotStatus
-com/example/salon/Entities/SalonServiceDetail.java
- com.example.salon.Entities.SalonServiceDetail
 com/example/salon/Repositories/SlotRepo.java
  com.example.salon.Repositories.SlotRepo
+com/example/salon/Entities/SalonServiceDetail.java
+ com.example.salon.Entities.SalonServiceDetail
+com/example/salon/Repositories/SalonServiceDetailRepo.java
+ com.example.salon.Repositories.SalonServiceDetailRepo
+com/example/salon/Services/SalonService.java
+ com.example.salon.Services.SalonService
 com/example/salon/Controllers/SalonServices.java
  com.example.salon.Controllers.SalonServices
