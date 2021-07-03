@@ -99,7 +99,7 @@ class ChooseService extends Component {
     }
 
     bookFor(item) {
-        console.log(item)
+        this.props.history.push("/chooseslot/"+item.id+"/"+ item.name)
     }
 }
 
